@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{D4A1620B-D120-4413-B87D-4D4E8CBC5DFE}|Default">
+  <MonoDevelop.Ide.ItemProperties.BillTacking.Android PreferredExecutionTarget="Android.pixel_5_-_api_30" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BillTacking.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A183F325-3BBC-479D-9CB2-5E546C55B83D" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

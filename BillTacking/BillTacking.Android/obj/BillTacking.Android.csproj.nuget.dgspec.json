@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking.Android/BillTacking.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking.Android/BillTacking.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking.Android/BillTacking.Android.csproj",
+        "projectName": "BillTacking.Android",
+        "projectPath": "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking.Android/BillTacking.Android.csproj",
+        "packagesPath": "/Users/depakmallick/.nuget/packages/",
+        "outputPath": "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/depakmallick/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {
+              "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking/BillTacking.csproj": {
+                "projectPath": "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking/BillTacking.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2545, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking/BillTacking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking/BillTacking.csproj",
+        "projectName": "BillTacking",
+        "projectPath": "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking/BillTacking.csproj",
+        "packagesPath": "/Users/depakmallick/.nuget/packages/",
+        "outputPath": "/Users/depakmallick/Projects/BillTacking/BillTacking/BillTacking/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/depakmallick/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2545, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/depakmallick/Library/Caches/VisualStudio/17.0/MSBuild/18032_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
