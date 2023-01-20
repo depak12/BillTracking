@@ -1,5 +1,29 @@
 ﻿<Properties StartupConfiguration="{D4A1620B-D120-4413-B87D-4D4E8CBC5DFE}|Default">
-  <MonoDevelop.Ide.ItemProperties.BillTacking.Android PreferredExecutionTarget="Android.pixel_5_-_api_30" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.BillTacking.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A183F325-3BBC-479D-9CB2-5E546C55B83D" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BillTacking.Android PreferredExecutionTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.Ide.ItemProperties.BillTacking.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A183F325-3BBC-479D-9CB2-5E546C55B83D" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BillTacking/BillTacking/Views/AboutPage.xaml">
+    <Files>
+      <File FileName="BillTacking/BillTacking/Views/AboutPage.xaml.cs" />
+      <File FileName="BillTacking/BillTacking/Views/AboutPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BillTacking" expanded="True">
+            <Node name="BillTacking" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
